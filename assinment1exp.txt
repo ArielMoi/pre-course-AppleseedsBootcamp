@@ -1,0 +1,8 @@
+In the next program I created a questionnaire to define a personality type (angel, devil, god or mediocre).
+The algorithm for this is as follows:
+- first i made the questions and answers and paired them with the right results in an object
+- then i used keyInSelect to ask the questions and saved the answers to an array.
+- taking the user answers, i compared them to the answers that are paired with the results to collect a point to the result that matched to the answer.
+- after collecting all the points, i calculated which result has the most and checked for a tie.
+- finally, i delivered the results to the user.
+
